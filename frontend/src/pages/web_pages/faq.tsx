@@ -58,7 +58,7 @@ export default function WebSite() {
 
   const faqs = [
     {
-      question: 'What makes ${projectName} different from other CRMs?',
+      question: 'What makes ${projectName} different from other CRMs???',
       answer:
         '${projectName} is specifically designed for the law industry, offering tailored features like lead management, collaborative workspaces, and secure data handling to meet the unique needs of legal professionals.',
     },
